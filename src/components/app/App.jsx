@@ -1,7 +1,6 @@
 import React from 'react';
-import Loading from '../loading/Loading';
-import Article from '../Article/Article'
+import NewsSearch from '../NewsSearch/NewsSearch'
 
 export default function App() {
-  return <Loading />
+  return <NewsSearch />
 }

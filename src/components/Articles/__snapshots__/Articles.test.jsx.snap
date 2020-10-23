@@ -3,7 +3,7 @@
 exports[`Articles component renders Articles List 1`] = `
 <DocumentFragment>
   <ul
-    data-testid="articles"
+    data-testid="articles-list"
   >
     <li>
       <h1>
